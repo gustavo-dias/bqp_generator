@@ -1,0 +1,10 @@
+###################################
+# Gitignore of bqp generator repo #
+###################################
+
+# Dat files
+*.dat
+
+# Support files
+.spyproject
+bqp.run
